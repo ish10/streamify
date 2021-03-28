@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "i have ",
+      "description": "u are mad",
+      "userId": null,
+      "id": 1
+    },
+    {
+      "title": "ishpreet is great",
+      "description": "u are gr8",
+      "userId": "104822712071897073771",
+      "id": 7
+    },
+    {
+      "title": "hello",
+      "description": "you are",
+      "userId": "104822712071897073771",
+      "id": 9
+    },
+    {
+      "title": "harish",
+      "description": "react dom",
+      "userId": "104822712071897073771",
+      "id": 10
+    }
+  ]
+}
